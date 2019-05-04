@@ -13,3 +13,5 @@ Encoding: UTF-8
 LazyData: true
 Suggests: 
     testthat
+URL: https://github.com/DavisVaughan/testpack
+BugReports: https://github.com/DavisVaughan/testpack/issues
